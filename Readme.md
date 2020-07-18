@@ -14,5 +14,4 @@ By Cloning this repository
 4. Click on Developer Mode option
 5. Click on load unpacked option
 6. Load Your Files
-7. :tada: Your extension has been activated !
-
+7. :tada: Your extension has been activated !!
